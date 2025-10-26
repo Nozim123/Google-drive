@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[Nozim]()
+[Google drive]()
 
 <h2>🧐 Features</h2>
 
