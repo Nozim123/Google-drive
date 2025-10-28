@@ -4,6 +4,8 @@
 
 <img width="399" height="473" alt="image" src="https://github.com/user-attachments/assets/12169361-f19a-4a76-9220-5c16505e7356" />
 
+<img width="1343" height="629" alt="image" src="https://github.com/user-attachments/assets/1fbb44cc-ee0d-484b-bd9a-097cf3702b61" />
+
 
 <p id="description">Embark on an exciting journey of building a Google Drive clone with the Next.js framework Firebase for backend functionality Stripe for payment integration and Clerk for authentication. This comprehensive course is designed for web developers eager to enhance their skills by creating a feature-rich cloud storage application that mirrors the functionality of Google Drive.</p>
 
