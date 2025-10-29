@@ -67,3 +67,11 @@ Technologies used in the project:
 - Clerk
 - Stripe
 - TypeScript
+
+### License
+
+This project is **free to use** and does not contains any license.
+
+### Please only open issues for actual bugs, feature requests or discussions should happen in Discussions or via my email.
+
+Contact Email: roziyevnozim43@gmail.com
